@@ -94,10 +94,12 @@ Install dependencies:
 pip install -r requirements.txt
 Run the notebook:
 jupyter notebook
+
 🎯 Use Cases
 Customer retention strategies
 Telecom / subscription business analysis
 Predictive analytics applications
+
 🔮 Future Improvements
 Hyperparameter tuning
 Try advanced models (XGBoost, LightGBM)
